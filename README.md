@@ -23,7 +23,6 @@ Personal knowledge infrastructure (IWE / Exocortex):
 |------|------------|
 | [`PACK-petroleum-innovation`](https://github.com/asf-denis-system/PACK-petroleum-innovation) | Three Pipelines model for petroleum R&D management |
 | [`PACK-kids-learning`](https://github.com/asf-denis-system/PACK-kids-learning) | Systems thinking framework for children & families |
-| [`FMT-exocortex-template`](https://github.com/asf-denis-system/FMT-exocortex-template) | Fork & deploy your AI-powered personal knowledge system |
 
 ---
 
