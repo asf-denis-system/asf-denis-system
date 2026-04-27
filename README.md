@@ -1,6 +1,6 @@
 ## Denis Asfandiyarov
 
-17 years building innovation management systems in upstream petroleum — now making them domain-agnostic.
+17 years in upstream petroleum. Since 2022 — building innovation management systems. Now making the approach domain-agnostic.
 
 **Innovation systems architect · Systems methodologist · Mentor & educator**
 
