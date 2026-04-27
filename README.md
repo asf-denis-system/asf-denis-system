@@ -28,7 +28,7 @@ Personal knowledge infrastructure (IWE / Exocortex):
 
 ### Building next
 
-Transparent technology portfolio management system based on the lemniscate model — making the full innovation lifecycle visible at the executive level.
+Innovation development platform: from production problem to deployment. Leadership sees where every solution stands — engineers know what to work on.
 
 ---
 
